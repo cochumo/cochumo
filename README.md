@@ -4,8 +4,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cochumo&layout=compact&title_color=FFF&text_color=FFF&bg_color=45,1FD1F9,B621FE&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=cochumo&layout=compact&title_color=FFF&text_color=FFF&bg_color=45,1FD1F9,B621FE&hide_border=true)
-
 **cochumo/cochumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
