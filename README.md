@@ -6,3 +6,4 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cochumo&layout=compact&title_color=FFF&text_color=FFF&bg_color=45,1FD1F9,B621FE&hide_border=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cochumo&layout=compact&title_color=FFF&text_color=FFF&bg_color=45,1FD1F9,B621FE&hide_border=true" height="182.25px" />
 </a>
+<img align="center" src="https://github-readme-beautiful.vercel.app/api/params" />
